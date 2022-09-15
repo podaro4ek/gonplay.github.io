@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="49.263" viewBox="0 0 49 49.263">
+  <g id="gift" transform="translate(-0.5 -0.5)">
+    <path id="Контур_861" data-name="Контур 861" d="M41.01,12V35.131H4V12" transform="translate(2.626 13.131)" fill="#fdc274" stroke="#1f2736" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <rect id="Прямоугольник_65" data-name="Прямоугольник 65" width="46" height="11" transform="translate(2 14)" fill="#fdc274" stroke="#1f2736" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Линия_22" data-name="Линия 22" y1="34" transform="translate(25 14)" fill="none" stroke="#1f2736" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Контур_862" data-name="Контур 862" d="M21.192,13.566H10.783A5.783,5.783,0,1,1,10.783,2C18.879,2,21.192,13.566,21.192,13.566Z" transform="translate(3.939 0)" fill="#fdc274" stroke="#1f2736" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Контур_863" data-name="Контур 863" d="M12,13.566H22.409A5.783,5.783,0,1,0,22.409,2C14.313,2,12,13.566,12,13.566Z" transform="translate(13.131 0)" fill="#fdc274" stroke="#1f2736" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>
