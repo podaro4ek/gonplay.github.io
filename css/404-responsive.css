@@ -1,0 +1,78 @@
+@media (max-width: 1439px) {
+    .static-page > .page-content {
+        grid-template-columns: 560px calc(100% - 560px);
+    }
+
+    .static-page > .page-content lottie-player {
+        height: 560px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .static-page > .page-content {
+        grid-template-columns: 440px calc(100% - 440px);
+    }
+
+    .static-page > .page-content lottie-player {
+        height: 440px;
+    }
+
+    .static-page > .page-content > .block-right {
+        font-size: 28px;
+        line-height: 40px;
+    }
+}
+
+@media (max-width: 719px) {
+    .static-page-container {
+        padding: 0 0 40px 0;
+    }
+
+    .static-page > .page-content {
+        grid-template-columns: 100%;
+        padding: 0;
+    }
+
+    .static-page > .page-content > .block-left {
+        height: 400px;
+        position: relative;
+    }
+
+    .static-page > .page-content lottie-player {
+        height: 400px;
+        position: absolute;
+        top: 0;
+        left: calc(50% - 200px);
+        width: 400px;
+    }
+
+    .static-page > .page-content > .block-right {
+        line-height: 34px;
+        padding-top: 9px;
+        text-align: center;
+        width: 273px;
+        max-width: 100%;
+        margin: auto;
+    }
+
+    .static-page > .page-content > .block-right .btn {
+        max-width: 100%;
+        margin: 32px auto 0 auto;
+    }
+}
+
+@media (max-width: 439px) {
+
+    .static-page > .page-content > .block-left {
+        height: 200px;
+        position: static;
+    }
+
+
+
+    .static-page > .page-content lottie-player {
+        height: 200px;
+        position: static;
+        width: 100%;
+    }
+}
